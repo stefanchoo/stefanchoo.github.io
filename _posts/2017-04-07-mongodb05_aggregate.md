@@ -204,7 +204,7 @@ mongodb各个节点常见的搭配方式为：一主一从、一主多从。主�
 
 ##### 试验参考：https://blog.csdn.net/majinggogogo/article/details/51586409
 
-![操作截图](https://github.com/stefanchoo/mongodb_study/blob/master/mongodb_replSet.png)
+![操作截图]({{"/assets/images/replSet.png" | absolute_url}})
 
 
 
